@@ -1,0 +1,22 @@
+{
+    "tables": [
+        {
+            "table_name": "test_table",
+            "fields": [
+                {
+                    "fname": "id",
+                    "ftype": "integer",
+                    "fprimary": "PRIMARY KEY",
+                    "isnullable": ""
+                },
+
+                {
+                    "fname": "name",
+                    "ftype": "text",
+                    "fprimary": "",
+                    "isnullable": "NOT NULL"
+                }
+             ]
+        }
+    ]
+}
